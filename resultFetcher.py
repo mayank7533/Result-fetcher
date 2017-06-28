@@ -1,5 +1,5 @@
 '''
-this code fetches results from http://knit.ac.in and stores them in a dictionary and further sorts it and displays the results according to the rand
+this code fetches results from http://knit.ac.in and stores them in a dictionary and further sorts it and displays the results according to the rank
 '''
 
 
